@@ -1,22 +1,3 @@
-# requirements.txt
-
-# Asyncio is used for asynchronous programming
 asyncio==3.4.3
-
-# itertools is used for creating iterators
-itertools==8.2
-
-# os module provides a way of interacting with the operating system
-# (included in standard library)
-
-# pywifi is used for interacting with Wi-Fi networks using Python
-pywifi==1.1.15
-
-# colorama is used for colored terminal text
-colorama==0.4.4
-
-# threading module is used for working with threads
-# (included in standard library)
-
-# time module provides various time-related functions
-# (included in standard library)
+pywifi
+colorama
