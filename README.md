@@ -1,10 +1,10 @@
 ![image](https://github.com/ABooD125141/NinjaNet/assets/136172276/f4c5a841-a0e0-4951-bb20-e59f8b0c8246)
 
-# HIDEFILE WiFi Hacking Tool
+# NinjaNet WiFi Hacking Tool
 
 ## Description
 
-HIDEFILE is a straightforward Python tool designed to hack WiFi networks using a password list. It utilizes the PyWiFi library to interact with WiFi networks and attempts passwords from user-provided or saved password lists.
+NinjaNet is a straightforward Python tool designed to hack WiFi networks using a password list. It utilizes the PyWiFi library to interact with WiFi networks and attempts passwords from user-provided or saved password lists.
 
 ## Features
 
@@ -25,7 +25,7 @@ HIDEFILE is a straightforward Python tool designed to hack WiFi networks using a
 
 ## Usage
 
-1. Run the tool using the command: `python filename.py`.
+1. Run the tool using the command: `python NinjaNet.py`.
 2. Select "Hack Network" from the menu.
 3. Choose the target network to hack.
 4. Select the password input option:
