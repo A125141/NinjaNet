@@ -162,9 +162,9 @@ def main():
 
             print(Fore.LIGHTRED_EX + "Select password input option:")
 
-            print(Fore.RED + "[ 1 ]", Fore.YELLOW + "Custom path for password file(s)")
+            print(Fore.RED + "[ 1 ]", Fore.LIGHTYELLOW_EXYELLOW + "Custom path for password file(s)")
 
-            print(Fore.RED + "[ 2 ]", Fore.YELLOW + "Use saved passwords in the tool's directory")
+            print(Fore.RED + "[ 2 ]", Fore.LIGHTYELLOW_EXYELLOW + "Use saved passwords in the tool's directory")
 
             print("     ")
 
@@ -180,9 +180,9 @@ def main():
 
                 print(Fore.YELLOW+ "--------------------------")
 
-                print(Fore.RED + "[ 1 ]", Fore.YELLOW + "A Folder of password list files (TXT)")
+                print(Fore.RED + "[ 1 ]", Fore.LIGHTYELLOW_EXYELLOW + "A Folder of password list files (TXT)")
 
-                print(Fore.RED + "[ 2 ]", Fore.YELLOW + "Single File (TXT)")
+                print(Fore.RED + "[ 2 ]", Fore.LIGHTYELLOW_EXYELLOW + "Single File (TXT)")
 
                 print(Fore.YELLOW+ "-----------------------------")
 
@@ -268,23 +268,23 @@ def main():
 
         elif option == '3':
 
-            print(Fore.MAGENTA + "-------------------------------------------------")
+            print(Fore.LIGHTGREEN_EX + "-------------------------------------------------")
 
-            print(Fore.YELLOW + "Contact US for a problem at [a6291088@gmail.com]")
+            print(Fore.LIGHTCYAN_EX + "Contact US for a problem at [a6291088@gmail.com]")
 
-            print(Fore.MAGENTA + "-------------------------------------------------")
+            print(Fore.LIGHTGREEN_EX + "-------------------------------------------------")
 
         elif option == "0":
 
             print(Fore.LIGHTMAGENTA_EX + "-------------------------------------------------------------------")
 
-            print(Fore.YELLOW + "Thank you for using the HIDEFILE Tool!")
+            print(Fore.LIGHTYELLOW_EXYELLOW + "Thank you for using the HIDEFILE Tool!")
 
             print(Fore.CYAN + "Created by ABDALRAHMAN125141")
 
             print(Fore.LIGHTMAGENTA_EX + "-------------------------------------------------------------------")
 
-            print(Fore.YELLOW + "Have a great day!")
+            print(Fore.LIGHTGREEN_EX + "Have a great day!")
 
             print()
 
@@ -366,7 +366,7 @@ def get_saved_passwords():
 
     print("      ")
 
-    selected_file = input(Fore.YELLOW + "Select the password file number: ")
+    selected_file = input(Fore.LIGHTYELLOW_EXYELLOW + "Select the password file number: ")
 
     try:
 
@@ -420,25 +420,13 @@ def connect_to_network(target_network, password):
 
     time.sleep(0.1)
 
-    
-
     networks = INF.scan_results()
-
-    
 
     INF.connect(TEMP_PROF)
 
-    
-
-   
-
     time.sleep(0.3)
 
-
-
     if INF.status() == const.IFACE_CONNECTED:
-
-     
 
         time.sleep(0.3)
 
@@ -449,8 +437,6 @@ def connect_to_network(target_network, password):
     else:
 
         print(f"{Fore.RED}Wrong password: {password}{Style.RESET_ALL}")
-
-
 
 
 
