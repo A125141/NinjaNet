@@ -141,7 +141,7 @@ def main():
             print(Fore.LIGHTBLUE_EX+ "3. Choose the password input option.")
             print(Fore.LIGHTBLUE_EX+ "4. Wait for the tool to attempt each password.")
             print(Fore.LIGHTBLUE_EX+ "5. If the correct password is found, it will be displayed.")
-            print(Fore.LIGHTRED_EX + "Abdalrahman125141")
+            print(Fore.LIGHTRED_EX + "ABooD125141")
             print("      ")
 
           
@@ -153,7 +153,7 @@ def main():
         elif option == "0":
             print(Fore.LIGHTMAGENTA_EX + "-------------------------------------------------------------------")
             print(Fore.LIGHTYELLOW_EX + "Thank you for using the HIDEFILE Tool!")
-            print(Fore.CYAN + "Created by ABDALRAHMAN125141")
+            print(Fore.CYAN + "Created by ABooD125141")
             print(Fore.LIGHTMAGENTA_EX + "-------------------------------------------------------------------")
             print(Fore.LIGHTYELLOW_EX + "Have a great day!")
             print()
