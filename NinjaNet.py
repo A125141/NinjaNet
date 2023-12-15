@@ -153,9 +153,9 @@ def main():
 
             print(Fore.LIGHTRED_EX + "Select password input option:")
 
-            print(Fore.RED + "[ 1 ]", Fore.LIGHTYELLOW_EXYELLOW + "Custom path for password file(s)")
+            print(Fore.RED + "[ 1 ]", Fore.LIGHTYELLOW_EX + "Custom path for password file(s)")
 
-            print(Fore.RED + "[ 2 ]", Fore.LIGHTYELLOW_EXYELLOW + "Use saved passwords in the tool's directory")
+            print(Fore.RED + "[ 2 ]", Fore.LIGHTYELLOW_EX + "Use saved passwords in the tool's directory")
 
             print("     ")
 
@@ -171,9 +171,9 @@ def main():
 
                 print(Fore.YELLOW+ "--------------------------")
 
-                print(Fore.RED + "[ 1 ]", Fore.LIGHTYELLOW_EXYELLOW + "A Folder of password list files (TXT)")
+                print(Fore.RED + "[ 1 ]", Fore.LIGHTYELLOW_EX + "A Folder of password list files (TXT)")
 
-                print(Fore.RED + "[ 2 ]", Fore.LIGHTYELLOW_EXYELLOW + "Single File (TXT)")
+                print(Fore.RED + "[ 2 ]", Fore.LIGHTYELLOW_EX + "Single File (TXT)")
 
                 print(Fore.YELLOW+ "-----------------------------")
 
@@ -269,7 +269,7 @@ def main():
 
             print(Fore.LIGHTMAGENTA_EX + "-------------------------------------------------------------------")
 
-            print(Fore.LIGHTYELLOW_EXYELLOW + "Thank you for using the HIDEFILE Tool!")
+            print(Fore.LIGHTYELLOW_EX + "Thank you for using the HIDEFILE Tool!")
 
             print(Fore.CYAN + "Created by ABDALRAHMAN125141")
 
@@ -357,7 +357,7 @@ def get_saved_passwords():
 
     print("      ")
 
-    selected_file = input(Fore.LIGHTYELLOW_EXYELLOW + "Select the password file number: ")
+    selected_file = input(Fore.LIGHTYELLOW_EX + "Select the password file number: ")
 
     try:
 
