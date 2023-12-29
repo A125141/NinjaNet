@@ -69,7 +69,7 @@ def main():
 
     print(Fore.LIGHTBLUE_EX + "NetNinja©", Fore.CYAN + "                                                                                          V1.0", Fore.LIGHTMAGENTA_EX + "    ABooD125141")
     print("      ")
-    print(Fore.LIGHTYELLOW_EX + "Welcome to the HIDEFILE Tool!")
+    print(Fore.LIGHTYELLOW_EX + "Welcome to NinjaNet Tool!")
     print("      ")
     while True:
         print(Fore.RED + "[ 1 ]", Fore.LIGHTYELLOW_EX + "HACK A WIFI")
