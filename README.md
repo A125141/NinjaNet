@@ -42,5 +42,5 @@ If you would like to contribute to the development of this tool, feel free to fo
 
 For any issues or inquiries, contact the developer:
 
-- Developer: ABooD25141
-- Email: a6291088@gmail.com
+- Developer: A125141
+- Email: a125141pro@gmail.com
