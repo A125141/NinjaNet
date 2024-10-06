@@ -67,9 +67,9 @@ def main():
                                            
 ''')
 
-    print(Fore.LIGHTBLUE_EX + "NetNinja©", Fore.CYAN + "                                                                                          V1.0", Fore.LIGHTMAGENTA_EX + "    ABooD125141")
+    print(Fore.LIGHTBLUE_EX + "NetNinja©", Fore.CYAN + "                                                                                          V1.0", Fore.LIGHTMAGENTA_EX + "    A125141")
     print("      ")
-    print(Fore.LIGHTYELLOW_EX + "Welcome to NinjaNet Tool!")
+    print(Fore.LIGHTYELLOW_EX + "Welcome to NinjaNet!")
     print("      ")
     while True:
         print(Fore.RED + "[ 1 ]", Fore.LIGHTYELLOW_EX + "HACK A WIFI")
@@ -141,21 +141,21 @@ def main():
             print(Fore.LIGHTBLUE_EX+ "3. Choose the password input option.")
             print(Fore.LIGHTBLUE_EX+ "4. Wait for the tool to attempt each password.")
             print(Fore.LIGHTBLUE_EX+ "5. If the correct password is found, it will be displayed.")
-            print(Fore.LIGHTRED_EX + "ABooD125141")
+            print(Fore.LIGHTRED_EX + "A125141")
             print("      ")
 
           
         elif option == '3':
             print(Fore.MAGENTA + "-------------------------------------------------")
-            print(Fore.LIGHTYELLOW_EX + "Contact US for a problem at [a6291088@gmail.com]")
+            print(Fore.LIGHTYELLOW_EX + "Contact US for a problem at [a125141contact@gmail.com]")
             print(Fore.MAGENTA + "-------------------------------------------------")
 
         elif option == "0":
             print(Fore.LIGHTMAGENTA_EX + "-------------------------------------------------------------------")
-            print(Fore.LIGHTYELLOW_EX + "Thank you for using the HIDEFILE Tool!")
-            print(Fore.CYAN + "Created by ABooD125141")
+            print(Fore.LIGHTYELLOW_EX + "Thank you for using NinjaNet!")
+            print(Fore.CYAN + "Created by A125141")
             print(Fore.LIGHTMAGENTA_EX + "-------------------------------------------------------------------")
-            print(Fore.LIGHTYELLOW_EX + "Have a great day!")
+            print(Fore.LIGHTYELLOW_EX + "HacK tHe WoRld!")
             print()
             time.sleep(1)
             print(Fore.LIGHTYELLOW_EX + "Exiting...")
