@@ -14,8 +14,7 @@ NinjaNet is a straightforward Python tool designed to hack WiFi networks using a
   - Custom path for password file(s).
   - Use saved passwords in the tool's directory.
 - Support for multiple password files and a folder containing password lists.
-- Animated loading screen for a visually appealing interface.
-- Option to exit the tool at any time.
+
 
 ## Requirements
 
@@ -43,4 +42,4 @@ If you would like to contribute to the development of this tool, feel free to fo
 For any issues or inquiries, contact the developer:
 
 - Developer: A125141
-- Email: a125141pro@gmail.com
+- Email: a125141contact@gmail.com
